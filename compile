@@ -1,0 +1,1 @@
+/mnt/b/buildroot/raspi_qt5/buildroot-2017.05.1/output/host/usr/bin/qmake  $1.pro -spec  /home/first/Qt/5.9/Src/qtbase/mkspecs/arm-linux-gnueabihf-g++   CONFIG+=debug  CONFIG+=qml_debug
